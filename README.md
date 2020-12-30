@@ -3,5 +3,10 @@
 
 # 개발 환경 세팅
 터미널에 `git clone https://github.com/Rampaka-DiscordBot-Code/Discord-Bot-Self-diagnosis.git` 를 입력해주세요
+
 터미널에 `pip install -r requirements.txt` 를 입력해주세요
+
 client.run("TOKEN") 부분을 수정해주세요
+
+# 라이선스
+라이선스를 
